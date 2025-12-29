@@ -1,6 +1,5 @@
-                                                            ## Hi there 👋
-
-                                                          ## 💫 About Me:
+# Hi there 👋
+💫 About Me:
 🔭 I’m currently working on<br>Java backend projects using Spring Boot and REST APIs.<br>🤝Completed Internships:<br> completed some internships at Hewlett Packard(HP)Enterprises & Electronics Arts & TechInterX<br>👯 I’m looking to collaborate on<br>Java, Spring Boot, backend development, and beginner-friendly open-source projects.<br>🤝 I’m looking for help with<br>Improving system design skills and building scalable backend applications.<br>🌱 I’m currently learning<br>Spring Boot, JPA/Hibernate, RESTful services, and database design.<br>💬 Ask me about<br>Java, OOP concepts, Spring Boot basics, JPA, and backend development.<br>⚡ Fun fact<br>I enjoy turning complex backend logic into clean and simple code 😄<br><br>
 
 
