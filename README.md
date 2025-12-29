@@ -1,14 +1,6 @@
-## Hi there 👋
+                                                            ## Hi there 👋
 
-
-**kuldeep1008/kuldeep1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+                                                          ## 💫 About Me:
 🔭 I’m currently working on<br>Java backend projects using Spring Boot and REST APIs.<br>🤝Completed Internships:<br> completed some internships at Hewlett Packard(HP)Enterprises & Electronics Arts & TechInterX<br>👯 I’m looking to collaborate on<br>Java, Spring Boot, backend development, and beginner-friendly open-source projects.<br>🤝 I’m looking for help with<br>Improving system design skills and building scalable backend applications.<br>🌱 I’m currently learning<br>Spring Boot, JPA/Hibernate, RESTful services, and database design.<br>💬 Ask me about<br>Java, OOP concepts, Spring Boot basics, JPA, and backend development.<br>⚡ Fun fact<br>I enjoy turning complex backend logic into clean and simple code 😄<br><br>
 
 
@@ -30,10 +22,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kuldeep1008&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
